@@ -20,6 +20,7 @@ What does the term "AI" mean?
 What is the singularity?
 
 Are LLMs conscious?
+- what is consciousness?  [David Chalmers: hard problem of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness)
 
 Are LLMs an instance of AGI?
 
