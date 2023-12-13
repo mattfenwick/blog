@@ -10,6 +10,8 @@
 
 - https://aiguide.substack.com/p/can-large-language-models-reason
 - https://www.youtube.com/@WorldScienceFestival
+- https://www.programmablemutter.com/p/the-singularity-is-nigh-republished
+- https://www.programmablemutter.com/p/look-at-scientology-to-understand
 
 ## Interesting questions
 
